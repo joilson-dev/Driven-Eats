@@ -1,0 +1,28 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    font-weight: 400;
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #CF2B2B;
+    height: 92px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    padding-top: 21px;
+    padding-left: 21px;
+
+
+}
+
+header h1 {
+    font-family: Righteous;
+    font-size: 44px;
+    line-height: 54.63px;
+    letter-spacing: -0.012em;
+
+}
+
+header p {
+    font-size: 18px;
+    line-height: 21.09px;
+}
