@@ -1,0 +1,7 @@
+.group {
+    display: flex;
+    gap: 16px;
+    padding-bottom: 20px;
+    overflow: scroll;
+    /* só vai funcionar se usar o flex-shrink: 0; no card */
+}

@@ -7,8 +7,16 @@
 @import url('components/container.css');
 @import url('components/card.css');
 @import url('components/group.css');
+@import url('components/products.css');
 
 /* Additional styles*/
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
 body {
     box-sizing: border-box;
     font-family: "Roboto", sans-serif;

@@ -1,0 +1,14 @@
+.products {
+    margin-top: 123px;
+    padding-left: 21px;
+}
+
+.products h2 {
+    font-family: Righteous;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 32.28px;
+    letter-spacing: 0.018em;
+    text-align: left;
+    margin-top: 17px;
+}
