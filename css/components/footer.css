@@ -1,0 +1,32 @@
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 92px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+
+}
+
+footer p {
+    background-color: #CBCBCB;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23.44px;
+    letter-spacing: 0.018em;
+    width: 364px;
+    height: 61px;
+    border-radius: 50px;
+    padding-left: 82px;
+    padding-right: 82px;
+    text-align: center;
+}
+
+footer p {
+    display: flex;
+    align-items: center;
+}
