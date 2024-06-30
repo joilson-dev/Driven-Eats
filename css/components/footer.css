@@ -34,4 +34,7 @@ footer p {
 
 .fechar-pedido {
     background-color: #32B72F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
